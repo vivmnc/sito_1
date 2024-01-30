@@ -3,4 +3,13 @@ body {
     background-color: palevioletred;
 }
 
+.container {
+    text-align: center;
+}
+
+.centered-image {
+    width: 600px;
+    max-width: 100%;
+    height: auto;
+}
 
